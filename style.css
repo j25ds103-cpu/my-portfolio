@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    padding: 40px;
+    background-color: lightblue;
+}
+
+section {
+    padding: 30px;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+footer {
+    padding: 20px;
+    background-color: lightgray;
+}
